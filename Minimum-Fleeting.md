@@ -1,5 +1,6 @@
 Quantifying
 ======
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 - the shareability parameter $k$: the maximum number of trips that can be shared
 - the maximum time delay the passenger can tolerate in a shared trip $\Delta$
 - can be shared - the travel time between intersections - ad hoc heuristic
