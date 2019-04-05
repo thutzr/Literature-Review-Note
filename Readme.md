@@ -4,5 +4,5 @@ This is a repo for my note of all literature I read. The note includes the main 
 
 Content
 ======
-- [On-demand.md](On-demand High-capacity Ride-sharing via dynamic trip-vehicle assignment) 
-- [Quantifying-shareability.md](#Quantifying the benefits of vehicle pooling with shareability networks) 
+- [On-demand High-capacity Ride-sharing via dynamic trip-vehicle assignment](On-demand.md)
+- [Quantifying the benefits of vehicle pooling with shareability](Quantifying-shareability.md)
