@@ -4,7 +4,7 @@ Quantifying
 - the shareability parameter $k$: the maximum number of trips that can be shared
 - the maximum time delay the passenger can tolerate in a shared trip $\Delta$
 - can be shared - the travel time between intersections - ad hoc heuristic
-- tractable for \(k=2\), heuristically feasible for $k=3$
+- tractable for \\(k=2\\), heuristically feasible for $k=3$
 - $k=2$: equivalent to the maximum amtching problem 
 - $\Delta = 10min $, 150 million nodes and 100 billion links
 - Oravle model, an artificial scenario, an upper bound
