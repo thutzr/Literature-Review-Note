@@ -6,3 +6,4 @@ Content
 ======
 - [On-demand High-capacity Ride-sharing via dynamic trip-vehicle assignment](On-demand.md)
 - [Quantifying the benefits of vehicle pooling with shareability](Quantifying-shareability.md)
+- [Addressing the Minimum Fleeting Problem in on-demad urban mobility](Addressing-Minimum-Fleeting.md)
