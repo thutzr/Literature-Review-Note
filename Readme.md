@@ -8,3 +8,7 @@ This is a repo for my note of all literature I read. The note includes the main 
 - [Quantifying the benefits of vehicle pooling with shareability](Minimum-Fleeting/Quantifying-shareability.md)
 - [Addressing the Minimum Fleeting Problem in on-demad urban mobility](Minimum-Fleeting/Addressing-Minimum-Fleeting.md)
 - [T-Share: A Large-Scale Dynamic Taxi Ridesharing Service](Minimum-Fleeting/T-share.md)
+
+
+## [Autonomous Vehicle](Autonomous-Vehicle)
+- [Pricing of parking games with atomic players](Pricing-of-parking-games.md)
